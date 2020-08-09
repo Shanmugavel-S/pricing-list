@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;700&display=swap');
+body{
+    font-family: 'Red Rose', cursive;
+}
+.bgcolor
+{
+    background-color: #0bbd5b;
+}
+header {
+    position: relative;
+
+}
+.me1{
+    position: absolute;
+    z-index: 1;
+    top: 10%    ;
+}
+.rounded-circle{
+    border-radius: 40%!important;
+} 
+
+
+.card:hover {
+    height: 500px;
+    width: 325px;
+}
